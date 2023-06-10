@@ -1,5 +1,11 @@
 <script>
-
+  let feedback = [
+    {
+      id: 1,
+      rating: 20,
+      text: lorem
+    }
+  ]
 </script>
 
 <main>
